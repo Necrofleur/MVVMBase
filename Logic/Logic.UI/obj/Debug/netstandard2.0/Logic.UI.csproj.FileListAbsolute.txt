@@ -1,0 +1,8 @@
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\bin\Debug\netstandard2.0\Logic.UI.deps.json
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\bin\Debug\netstandard2.0\Logic.UI.dll
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\obj\Debug\netstandard2.0\Logic.UI.AssemblyInfoInputs.cache
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\obj\Debug\netstandard2.0\Logic.UI.AssemblyInfo.cs
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\obj\Debug\netstandard2.0\Logic.UI.csproj.CoreCompileInputs.cache
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\bin\Debug\netstandard2.0\Logic.UI.pdb
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\obj\Debug\netstandard2.0\Logic.UI.dll
+C:\Users\InKotulla\source\repos\Base\Logic\Logic.UI\obj\Debug\netstandard2.0\Logic.UI.pdb
