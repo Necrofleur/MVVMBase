@@ -2,6 +2,7 @@
 using CommonServiceLocator;
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
+using Logic.UI;
 
 namespace UI.Desktop.ViewModel
 {
@@ -29,6 +30,7 @@ namespace UI.Desktop.ViewModel
             }
 
             SimpleIoc.Default.Register<MainViewModel>();
+            SimpleIoc.Default.Register<LoginViewModel>();
         }
 
         public MainViewModel Main
@@ -38,7 +40,15 @@ namespace UI.Desktop.ViewModel
                 return ServiceLocator.Current.GetInstance<MainViewModel>();
             }
         }
-        
+
+        public LoginViewModel LoginVM
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<LoginViewModel>();
+            }
+        }
+
         public static void Cleanup()
         {
             // TODO Clear the ViewModels

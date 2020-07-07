@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Logic", "Logic", "{ED0A633E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI.Desktop", "UI\UI.Desktop\UI.Desktop.csproj", "{4E6AF422-F796-4F5A-833A-10AB39CE6FE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic.UI", "Logic\Logic.UI\Logic.UI.csproj", "{6CDFC21D-C677-4051-B828-178956EAD99E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Logic.UI", "Logic\Logic.UI\Logic.UI.csproj", "{6CDFC21D-C677-4051-B828-178956EAD99E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
